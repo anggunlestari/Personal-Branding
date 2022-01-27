@@ -1,0 +1,114 @@
+/* .jumbotron {
+  padding: 20px;
+  background-color: #ffffff;
+} */
+
+.navbar-nav a:hover {
+  background-color: #5c78ad;
+  color: white;
+}
+
+.navbar-nav a.active {
+  background-color: #5c78ad;
+  color: white;
+}
+
+.navbar-nav {
+  float: right;
+  padding-right: 0;
+}
+
+.navbar-nav hover .collapse {
+  float: right;
+}
+
+*/ .lead {
+  color: #5c78ad;
+  font-size: 30px;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
+
+.skills {
+  margin-bottom: 30px;
+}
+
+.skills h3 {
+  color: #5c78ad;
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+
+.organization h3 {
+  color: #5c78ad;
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+
+.organization i h6 {
+  padding-left: 20px;
+}
+
+.organization p {
+  padding-left: 20px;
+}
+
+.organization ul {
+  color: #000000;
+}
+
+.organization ul li {
+  color: #5c78ad;
+}
+
+.project {
+  margin-bottom: 50px;
+}
+
+.project h3 {
+  color: #5c78ad;
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+
+/* .project col {
+  text-align: center;
+} */
+
+.card img {
+  display: block;
+  margin: 0 auto;
+}
+
+.contact {
+  background-color: #5c78ad;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  text-align: center;
+  color: white;
+}
+
+.contact h3 {
+  color: white;
+  padding-bottom: 20px;
+}
+
+/* PROJECT */
+.myproject {
+  margin-bottom: 80px;
+}
+
+.myproject h3 {
+  color: #5c78ad;
+  margin-bottom: 40px;
+}
+
+.myproject h5 {
+  margin-bottom: 30px;
+}
+
+.myproject img {
+  align-items: center;
+}
